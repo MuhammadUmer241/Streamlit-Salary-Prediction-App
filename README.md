@@ -22,8 +22,9 @@ pip install -r requirements.txt
 ```
 
 
-![image](https://github.com/user-attachments/assets/d73ca173-33d9-4889-8a24-0bcf14293eda)
-![image](https://github.com/user-attachments/assets/ffbf6dff-fb21-4e5f-9c58-b3139dbb1776)
+![Screenshot 2024-08-04 204935](https://github.com/user-attachments/assets/671e9aa1-08b5-4650-90c8-6b561b6059dc)
+![Screenshot 2024-08-04 205129](https://github.com/user-attachments/assets/0d4ba59b-e2a0-46e1-b6e4-808c85554e5d)
+
 This Streamlit web application provides a dashboard to visualize trends in job title mean prices (e.g., ML, SE, Computer Biologist) and a predictive model to estimate salaries from 2021 to 2024 using a Decision Tree Regressor.
 
 
