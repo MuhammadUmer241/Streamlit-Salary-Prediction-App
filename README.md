@@ -23,8 +23,8 @@ python -m streamlit run main.py
 ```
 
 ## This App contains two pages 
-### Prediction
-### Dashboard
+### 1.Prediction
+
 
 ![Screenshot 2024-08-04 204935](https://github.com/user-attachments/assets/671e9aa1-08b5-4650-90c8-6b561b6059dc)
 #### Employment Type: Users can select the type of employment (e.g., Full-time (FT), Part-time(PT), Contract(CT)).
