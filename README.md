@@ -1,5 +1,5 @@
 # Salary Prediction Model
- Streamlit App with Dashboard and Prediction Model
+ ## Streamlit App Salary Prediction For Differnet Job Titles with Dashboard Showing Trend of Salaries Over 2021 to 2024
 Running the App
 ```commandline
 python -m streamlit run main.py
