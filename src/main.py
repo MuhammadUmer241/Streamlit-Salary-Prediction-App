@@ -17,7 +17,7 @@ if page== "Prediction Model":
 
     col1, col2, col3 = st.columns((3, 1, 1))
     with col3:
-        years = range(2021, 2024)
+        years = range(2021, 2025)
         work_year = st.selectbox(label="Work Year", options=years)
     with col2:
         employment_type = st.selectbox("Employment Type", df['employment_type'].unique())
