@@ -8,7 +8,6 @@ python -m streamlit run main.py
 Clone the repository:
 ```bash
 git clone https://github.com/MuhammadUmer241/Salary-Prediction-Model
-Use code with caution.
 ```
 
 Navigate to the project directory:
