@@ -52,7 +52,7 @@ if page== "Prediction Model":
 
     df_ = pd.DataFrame(dict_)
 
-    with open('pipeline_F.pkl', 'rb') as f:
+    with open('pipline_F.pkl', 'rb') as f:
         model = pickle.load(f)
     price= model.predict(df_)
     col1,col2,col3= st.columns((3,1,1))
